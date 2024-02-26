@@ -16,31 +16,22 @@ public class Q1018 {
 
             System.out.println(bag01(V, N, sizes, values));
 
-
         }
     }
 
     public static int bag01(int V, int N, int[] s, int[] v) {
-
-        int[][] dp = new int[N][V + 1];
+        int[] dp = new int[V + 1];
+        
         for (int i = 0; i < N; i++) {
-            for (int j = V; j >=0; j--) {
-                if (j >= s[i]) {
-                    if (i == 0) {
-                        dp[i][j] = v[i];
-                    } else {
-                        dp[i][j] = Math.max(dp[i - 1][j], dp[i - 1][j - s[i]] + v[i]);
-                    }
-                } else {
-                    if (i == 0) {
-                        dp[i][j] = 0;
-                    } else {
-                        dp[i][j] = dp[i - 1][j];
-                    }
+            for (int j = V; j >= 0; j--) {
+                if (j > s[i] && dp[j - s[i]] != 0) {
+                    dp[j] = Math.max(dp[j], dp[j-s[i]] + v[i]);
+                } else if (j == s[i]) {
+                    dp[j] = Math.max(dp[j], v[i]);
                 }
             }
         }
 
-        return dp[N - 1][V];
+        return dp[V];
     }
 }

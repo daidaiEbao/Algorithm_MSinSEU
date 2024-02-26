@@ -1,0 +1,189 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Q1000",
+            "request": "launch",
+            "mainClass": "Q1000",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "Q1001",
+            "request": "launch",
+            "mainClass": "Q1001",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "Q1002",
+            "request": "launch",
+            "mainClass": "Q1002",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "Q1003",
+            "request": "launch",
+            "mainClass": "Q1003",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "Q1004",
+            "request": "launch",
+            "mainClass": "Q1004",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "Q1005",
+            "request": "launch",
+            "mainClass": "Q1005",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "Q1006",
+            "request": "launch",
+            "mainClass": "Q1006",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "Q1007",
+            "request": "launch",
+            "mainClass": "Q1007",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "Q1008",
+            "request": "launch",
+            "mainClass": "Q1008",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "Q1009",
+            "request": "launch",
+            "mainClass": "Q1009",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "Q1010",
+            "request": "launch",
+            "mainClass": "Q1010",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "Q1011",
+            "request": "launch",
+            "mainClass": "Q1011",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "Q1012",
+            "request": "launch",
+            "mainClass": "Q1012",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "Q1013",
+            "request": "launch",
+            "mainClass": "Q1013",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "Q1014",
+            "request": "launch",
+            "mainClass": "Q1014",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "Q1015",
+            "request": "launch",
+            "mainClass": "Q1015",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "Q1016",
+            "request": "launch",
+            "mainClass": "Q1016",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "Q1017",
+            "request": "launch",
+            "mainClass": "Q1017",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "Q1018",
+            "request": "launch",
+            "mainClass": "Q1018",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "Q1019",
+            "request": "launch",
+            "mainClass": "Q1019",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "Q1020",
+            "request": "launch",
+            "mainClass": "Q1020",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "Q1021",
+            "request": "launch",
+            "mainClass": "Q1021",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "Q1022",
+            "request": "launch",
+            "mainClass": "Q1022",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "Q1025",
+            "request": "launch",
+            "mainClass": "Q1025",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        },
+        {
+            "type": "java",
+            "name": "generator",
+            "request": "launch",
+            "mainClass": "generator",
+            "projectName": "Algorithm_MSinSEU_a58b9e60"
+        }
+    ]
+}
